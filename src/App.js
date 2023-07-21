@@ -15,6 +15,7 @@ function App() {
         {/* Add more routes for your other pages */}
       </Routes>
     </Router>
+
   );
 }
 
